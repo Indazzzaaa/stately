@@ -29,4 +29,7 @@ logs/
 
 # Cache
 .npm/
-.eslintcache 
+.eslintcache
+
+# Bot file
+bot.md 

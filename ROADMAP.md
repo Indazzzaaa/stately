@@ -181,3 +181,7 @@ The development will follow this general timeline, with each phase building upon
 6. Phase 6: Ecosystem (v2.1+)
 
 Each phase will include thorough testing, documentation, and community feedback before moving to the next phase. 
+
+Developer pushes code → CI runs checks → If passes → Ready for merge
+
+Create GitHub release → CD pipeline runs → If passes → Package published to npm 
